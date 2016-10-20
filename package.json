@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "http2": "3.3.6",
+    "http2": "simllll/node-http2",
     "node-forge": "^0.6.20",
     "jsonwebtoken": "^7.1.9",
     "verror": "^1.8.1"
